@@ -413,7 +413,7 @@ SSH端口屏蔽：22端口未屏蔽
 ## 八、龙猫云(15/月100G)
 
 
-totorocloud，中转trojan机场。观察挺久，感觉速度都挺好。观察了很久才推荐的。值得推荐。而且也退出了TG宣传。更加稳定。有hytron香港入口，海外/境外用户可以使用。目前只运行使用官方客户端，不支持小火箭，clash等第三方通用客户端使用   
+totorocloud，中转trojan机场。观察挺久，感觉速度都挺好。观察了很久才推荐的。值得推荐。而且也退出了TG宣传。更加稳定。有hytron香港入口，海外/境外用户可以使用。目前只允许使用官方客户端，不支持小火箭，clash等第三方通用客户端使用   
 
 注意：speedcat、龙猫云、Flyingbird、一云梯是相同线路类型。别买重复了。
 
@@ -500,7 +500,7 @@ F套餐: 150/季，每月500G
 
 
 
-IEPL 三网专线机场。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。有3G流量试用。这家机场的老板应该不少机场老板认识。近期稳定性不够好，稳定很看上游资源。有新疆可用套餐。目前通报严重，只能使用官方客户端，不能使用第三方客户端导入订阅。
+IEPL 三网专线机场。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。有3G流量试用。这家机场的老板应该不少机场老板认识。近期稳定性不够好，稳定很看上游资源。有新疆可用套餐。目前通报严重，只能使用他家官方客户端，不能使用第三方客户端导入订阅。
 [万达云官网](https://link.wdyserver.com/register?code=XBO0alIK)         
 
 >老板肉身：新加坡  
@@ -578,7 +578,7 @@ TG电报频道和群：有
 
 
 ## 十二、E-IX(199/月1T/年)
-深圳三线入口IEPl专线（香港+新加坡+台湾）+上海ucloud专线（日本美国）+北京ucloud专线（欧洲方向）机场，台湾机场老板。有几年的机场经验。线路一流，多个专线入口，每个入口带宽都还不错。流媒体解锁也不错。高端线路机场。 有新疆用户套餐。
+香港透传专线机场，台湾机场老板。有几年的机场经验。线路一流，多个专线入口，每个入口带宽都还不错。流媒体解锁也不错。高端线路机场。 有新疆用户套餐。
 [E-IX官网](https://cdn12.e-ix.com/#/register?code=Aon7FQ85)
 
 >开业时间：2025 
@@ -831,37 +831,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-
-## 机场优惠   
-
-### BoostNet
-专线中转SS机场  
-8折优惠码： boost  
-折后：32/月200G   
-
-### 悠兔    
-专线+隧道公网中转SS机场，双线路    
-8折优惠码： 888     
-折后：23.2/月150G    
-
-### 贝贝云    
-隧道公网中转SS机场，速度和稳定性可以    
-95折优惠码：beibei.cloud    
-折后： 15/月100G    
-
-
-
-### Arisaka  
-专线+隧道公网中转SS机场，带宽大    
-8折优惠：UwtJ9Ov1    
-折后：12.8/月80G    
  
-
-
-
-
-
-
 
 ## 购买指导总结,快速筛选
 
@@ -873,32 +843,33 @@ TG频道和群组：有，1500人+，群组人数3000+
     
     **10块/月以下**： 海獭（25/季50G/月）
     
-    **10-20块/月**：贝贝云(14.9/月)、haita((15.99/100G)、万达云（14/月）、Arisaka(16/月80G) 、大哥云(19.8/月100G)
+    **10-20块/月**：贝贝云(24.9/月)、haita((15.99/100G)、万达云（14/月）、Arisaka(16/月80G) 、大哥云(19.8/月100G)
                
-    **20-30块/月**： kycloud(75/季度50G/月)、悠兔(29块/月100G)
+    **20-30块/月**： kycloud(75/季度50G/月)、悠兔(39块/月100G)
     
     **30块/月起高端机场**： BoostNet（39/月200G） 、WgetCloud(59/月120G)、TAG(176块/季250G/月)、Just my sock(5.8刀/月108G)       
     
      2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、STC-SERVER(0.8块/G，8块起买)
+       悠兔(199块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、STC-SERVER(0.8块/G，8块起买)
     
      3)**需要1T起大流量月付套餐**：
-       悠兔(100/月1000G)、贝贝云(80/月1000G)、BoostNet(108/月1000G)、TAG(209块/月999G)、Kycloud(1T/月369/季)、Just my sock(9.88美元/月起)
+       悠兔(129/月1000G)、贝贝云(80/月1000G)、BoostNet(108/月1000G)、TAG(209块/月999G)、Kycloud(1T/月369/季)、Just my sock(9.88美元/月起)
 
 3. **协议分类：**
 
-支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：
-悠兔、BoostNet、TAG、WgetCloud、Kycloud、Just my sock、Catnet、贝贝云   
+支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quantumultX、loon、stash、surge、sing-box等）：
+TAG、WgetCloud、Kycloud、Just my sock
 
 
-支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、nekoray、nekobox等）：芬达
+支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quantumultX、loon、stash等）：芬达
 
 
-支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云、海獭     
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：WgetCloud、老猫云、海獭     
 
 
-支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、Just my sock       
+支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、Just my sock          
 
+Anytls协议：悠兔、BoostNet、贝贝云    
 
 
   3.**屏蔽限制区分：**
@@ -911,15 +882,15 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 5. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**： Kycloud。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
 
-6. **有TG群**：悠兔、TAG、 Kycloud
+6. **有TG群**：TAG、 Kycloud
 
-7. **方便小白需要一键使用客户端的**：悠兔、贝贝云、WgetCloud
+7. **方便小白需要一键使用客户端的**：Boostnet、悠兔、贝贝云、WgetCloud
 
 8. **大陆外和新疆用户可以使用**：TAG国际站、kycloud
 
 9.  有退款服务：Just my sock、老猫云
 
-10.  需要UDP：TAG、WgetCloud、老猫云、贝贝云    
+10.  需要UDP：TAG、WgetCloud、老猫云    
 
   以上就是一些值得推荐的机场，不好用的会下掉。不推荐太多家，容易选择困难。
   欢迎指正。
