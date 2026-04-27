@@ -857,19 +857,14 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 3. **协议分类：**
 
-支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quantumultX、loon、stash、surge、sing-box等）：
-TAG、WgetCloud、Kycloud、Just my sock
+SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quantumultX、loon、stash、surge、sing-box等）：
+TAG、Kycloud、Just my sock
 
+Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：WgetCloud、老猫云、海獭     
 
-支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quantumultX、loon、stash等）：芬达
+Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：Kycloud、Just my sock          
 
-
-支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：WgetCloud、老猫云、海獭     
-
-
-支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、Just my sock          
-
-Anytls协议：悠兔、BoostNet、贝贝云    
+Anytls协议（Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)）：悠兔、BoostNet、贝贝云、瑶瑶领先         
 
 
   3.**屏蔽限制区分：**
