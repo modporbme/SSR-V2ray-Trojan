@@ -13,15 +13,15 @@
 
 4. 便宜机场很多套路，注意避开：1)一开始很便宜或搞超大折扣活动，AFF比例非常高。低价吸引一波来割韭菜，捞一波就跑。别看单价流量多就觉得值，不好用也是浪费钱。 2)使用便宜月抛直连线路，成本低。线路变化频繁，随时一键跑路。 3)线路多但复用，多条线路但入口和落地其实是同一条。 很多便宜机场优点只有便宜，稳定性和速度一言难尽。 4)买中转转发的，转发就是很多人共用同一个机器，容易一家被打全部机场都不能用。 买多了几家机场就知道：机场便宜不好用，好用不便宜。
 
-5. 需注意：1)一下别买太长时间，谁也不知道机场什么时候跑路。TG过于高调的机场也需要谨慎购买;  2)机场倍率，2倍率就是使用1G算2G;  3)很多机场有审计;  4)延迟和速度无关,不是延迟低速度就快。
+5. 需注意：1)一下别买太长时间，谁也不知道机场什么时候跑路。TG过于高调的机场也需要谨慎购买;  2)机场倍率，2倍率就是使用1G算2G;  3)很多机场有审计;  4)延迟和速度无关,不是延迟低速度就快,速度看带宽和路由！    
 
 6. 各平台客户端推荐：
->Windows：Clash-verge-rev、Clash-Party、FLClash、v2rayN              
-Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、FLClash      
+>Windows：Clash-verge-rev、Clash-Party、FlClash、v2rayN              
+Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、FlClash      
 IOS：ClashMi(免费)、Egern(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon
-安卓：ClashMetaforAndroid(CMFA)、FLClash和、Surfboard、V2rayNG         
+安卓：ClashMetaforAndroid、FlClash和、Surfboard、V2rayNG         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
-路由器：OpenWRT的OpenClash、PassWall      
+路由器：OpenWRT的OpenClash、PassWall、梅林clash          
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
