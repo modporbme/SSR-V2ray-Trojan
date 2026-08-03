@@ -910,9 +910,9 @@ Anytls协议（Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Spark
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Kycloud、Just my sock、老猫云、haita           
-   可用第三方软件发邮件：Kycloud、Just my sock、老猫云     
-   审计较少：Just my sock、Kycloud、老猫云 
+   未屏蔽22端口：卡特云、Just my sock、老猫云、haita           
+   可用第三方软件发邮件：卡特云、Just my sock、老猫云     
+   审计较少：卡特云、Kycloud、老猫云 
 
 
 4. **落地国家节点多、想要家宽**，买卡特云
